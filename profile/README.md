@@ -10,5 +10,4 @@ Images and sources of them are hosted under the [HybridELEC](https://github.com/
   - However, I can promise the CE and EE kernel and system images are not touched at all in these images, and you can verify that by `sha256sum` them after booting.
   - Android is the default booting target, to switch to CE/EE/External, you would also need the rebooter under the [HybridELEC_Rebooter](https://github.com/HybridELEC/HybridELEC_Rebooter) repo
 
-
-Additionally we have [hepacker](https://github.com/HybridELEC/hepacker), with which you can build your own HybridELEC Android burning image, be it Android + CoreELEC 2in1, or Android + EmuELEC 2in1, or Android + CoreELEC + EmuELEC 3in1. You're free to redistribute the generated image, but be sure not to violate the EULA of your Android image provider. Be extra careful if you build from a third party Android ROM, as most ROM makers are not happy for re-modification of their ROMs.
+Additionally we have [hepacker](https://github.com/HybridELEC/hepacker), with which you can build your own HybridELEC Android burning image, be it Android + CoreELEC 2in1, or Android + EmuELEC 2in1, or Android + CoreELEC + EmuELEC 3in1.
